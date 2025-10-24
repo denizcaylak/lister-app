@@ -29,3 +29,6 @@ Full support for Light Mode and Dark Mode, which can adapt to the device's syste
 (Optional: Manual theme switching)
 
 ## Screenshots
+![ss2](https://github.com/user-attachments/assets/6b00790b-466b-4e23-aef6-e1309f23afad)
+![ss1](https://github.com/user-attachments/assets/4a040124-03f8-4a47-aa39-e21a876745b8)
+
