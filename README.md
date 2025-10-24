@@ -1,16 +1,31 @@
-# lister_gpt
+# Lister
 
-A new Flutter project.
+A simple and stylish mobile to-do list application built with Flutter, designed to help you manage your daily tasks and lists.
 
-## Getting Started
+This project was created to demonstrate functional app development in Flutter, focusing on core widgets, state management, and theme switching (Light/Dark mode).
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+The current version of the app includes the following features:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Lists:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Create new lists
+
+Delete existing lists (e.g., with a swipe gesture)
+
+### Tasks (Items):
+
+Add new tasks to a list
+
+Delete tasks from a list (e.g., with a swipe gesture)
+
+Mark tasks as completed with a "strikethrough" effect
+
+### Theme Support:
+
+Full support for Light Mode and Dark Mode, which can adapt to the device's system settings.
+
+(Optional: Manual theme switching)
+
+## Screenshots
